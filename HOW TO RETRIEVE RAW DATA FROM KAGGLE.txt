@@ -1,0 +1,6 @@
+HOW TO RETRIEVE RAW DATA FROM KAGGLE
+* Open the hyperlink to the Kaggle website. 
+* Sign in or create a free account
+* Context area provides information on the dataset
+* About this file provides details on the dataset to help you understand the data
+* Above the detail area on the right side is the download symbol.  This will export the raw data as a .csv file. 
