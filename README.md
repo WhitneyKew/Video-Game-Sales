@@ -2,6 +2,7 @@
 This is an analysis of video game sales data. 
 WHO DID THE ANALYSIS
 I am a Canadian college student who did some exploratory analysis on the Kaggle video game sales data. 
+
 FINDINGS
 * Sports games have a higher average critic score than shooter games
 * Sports games have an average critic score of 71.96
